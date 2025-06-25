@@ -1,0 +1,11 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
+langgraph
+langchain-mistralai
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+python-dotenv
+pydantic
